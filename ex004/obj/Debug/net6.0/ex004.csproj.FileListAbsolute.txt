@@ -1,0 +1,15 @@
+C:\Users\lenovo-pc\Desktop\examples\ex004\bin\Debug\net6.0\ex004.exe
+C:\Users\lenovo-pc\Desktop\examples\ex004\bin\Debug\net6.0\ex004.deps.json
+C:\Users\lenovo-pc\Desktop\examples\ex004\bin\Debug\net6.0\ex004.runtimeconfig.json
+C:\Users\lenovo-pc\Desktop\examples\ex004\bin\Debug\net6.0\ex004.dll
+C:\Users\lenovo-pc\Desktop\examples\ex004\bin\Debug\net6.0\ex004.pdb
+C:\Users\lenovo-pc\Desktop\examples\ex004\obj\Debug\net6.0\ex004.csproj.AssemblyReference.cache
+C:\Users\lenovo-pc\Desktop\examples\ex004\obj\Debug\net6.0\ex004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo-pc\Desktop\examples\ex004\obj\Debug\net6.0\ex004.AssemblyInfoInputs.cache
+C:\Users\lenovo-pc\Desktop\examples\ex004\obj\Debug\net6.0\ex004.AssemblyInfo.cs
+C:\Users\lenovo-pc\Desktop\examples\ex004\obj\Debug\net6.0\ex004.csproj.CoreCompileInputs.cache
+C:\Users\lenovo-pc\Desktop\examples\ex004\obj\Debug\net6.0\ex004.dll
+C:\Users\lenovo-pc\Desktop\examples\ex004\obj\Debug\net6.0\refint\ex004.dll
+C:\Users\lenovo-pc\Desktop\examples\ex004\obj\Debug\net6.0\ex004.pdb
+C:\Users\lenovo-pc\Desktop\examples\ex004\obj\Debug\net6.0\ex004.genruntimeconfig.cache
+C:\Users\lenovo-pc\Desktop\examples\ex004\obj\Debug\net6.0\ref\ex004.dll
